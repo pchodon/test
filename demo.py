@@ -1,4 +1,5 @@
 # new version
+print("Test")
 from PyLTSpice import RawRead
 
 from matplotlib import pyplot as plt
